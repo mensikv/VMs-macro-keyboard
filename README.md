@@ -62,4 +62,5 @@ In folder `stl` you will find `*.stl` files for your 3D printer, so you can prin
 Aside from the provided files you need:
 * 8x [KeyV2: Parametric Mechanical Keycap Library](https://www.thingiverse.com/thing:2783650) - I have used oem_row-5_length-1.stl
 * 1x [volume knob](https://www.prusaprinters.org/prints/4739-media-control-volume-knob-smooth-knob/files) - I have used knob_smooth_playpause.3mf
+
 More information about the case and photos can be found on [Thingiverse](https://www.thingiverse.com/thing:4322182).
